@@ -171,6 +171,75 @@ The following roles outline how each contributor supports the **AirBnB Clone Pro
 
 ---
 
+## 🧩 UI Component Patterns
+
+The **UI Component Patterns** section defines the core reusable elements that will form the foundation of the AirBnB Clone’s front-end interface.  
+Each component will be designed with **reusability**, **consistency**, and **responsiveness** in mind, following the principles of modern component-based architecture.
+
+---
+
+### 🔝 Navbar Component
+**Description:**  
+The Navbar will serve as the main navigation bar across all pages, allowing users to quickly access key areas of the site.
+
+**Key Elements:**
+- Platform logo and branding  
+- Search bar for location and date filtering  
+- User navigation (profile, favorites, bookings)  
+- Responsive hamburger menu for mobile view  
+
+**Purpose:**  
+Ensures users can navigate the platform effortlessly, improving accessibility and user flow.
+
+---
+
+### 🏡 Property Card Component
+**Description:**  
+Each property will be represented as a card displaying essential information for quick browsing.
+
+**Key Elements:**
+- Property image carousel or cover photo  
+- Basic details (title, location, price per night, rating)  
+- Favorite/like button  
+- Responsive grid layout for desktop and mobile views  
+
+**Purpose:**  
+Allows users to visually scan and select listings quickly, providing a snapshot of key property details.
+
+---
+
+### 👣 Footer Component
+**Description:**  
+The Footer will be present across all pages, containing key company information and quick links.
+
+**Key Elements:**
+- Company info and contact links  
+- Navigation to policies (Terms of Service, Privacy Policy)  
+- Social media icons  
+- Copyright statement  
+
+**Purpose:**  
+Provides users with consistent navigation and company context while maintaining the brand identity.
+
+---
+
+### 🧱 Component Design Goals
+Each UI component will follow these principles:
+- **Reusability:** Designed to be modular and easy to integrate across multiple pages.  
+- **Consistency:** Maintains a unified visual language using shared color and typography styles.  
+- **Accessibility:** Adheres to WCAG standards for inclusivity.  
+- **Responsiveness:** Optimized for seamless use on mobile, tablet, and desktop screens.
+
+---
+
+### 💡 Summary
+These foundational components (Navbar, Property Card, and Footer) will serve as building blocks for the AirBnB Clone’s interface.  
+They will ensure a **cohesive, scalable, and user-friendly design system** as the project grows.
+
+---
+
+---
+
 ### 🌟 Summary
 Clearly defining and documenting roles fosters collaboration, accountability, and clarity across the team.  
 Each role contributes uniquely to building a **high-quality, maintainable, and user-focused AirBnB clone** that meets both technical and business objectives.

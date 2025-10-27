@@ -108,3 +108,45 @@ It ensures that users can easily search, select, and book properties without con
 By focusing on simplicity, consistency, and performance, our design promotes an engaging and efficient booking experience.
 
 ---
+
+### 🎨 Figma Design Specifications
+
+#### 🎨 Color Styles
+The following color palette has been extracted from the Figma design system to maintain a consistent and modern visual style across the application:
+
+| **Color Role** | **Hex Code** | **Usage** |
+|----------------|--------------|------------|
+| Primary | `#FF5A5F` | Buttons, highlights, and key interactive elements |
+| Secondary | `#008489` | Links, icons, and secondary accents |
+| Background | `#FFFFFF` | Main page background |
+| Text (Primary) | `#222222` | Main text color for high readability |
+| Text (Secondary) | `#717171` | Supporting text, labels, and descriptions |
+
+---
+
+#### ✍️ Typography
+Typography defines the overall readability, hierarchy, and tone of the design.  
+Below are the Figma typography specifications:
+
+| **Text Role** | **Font Family** | **Font Weight** | **Font Size** | **Usage** |
+|----------------|------------------|-----------------|----------------|------------|
+| Primary Font | Circular | Medium (500) | 16px | Main body text |
+| Headings | Circular | Bold (700) | 24px–32px | Section and page titles |
+| Secondary Text | Circular | Book (400) | 14px | Subtext, labels, and less prominent information |
+
+---
+
+### 💭 Importance of Identifying Design Properties
+
+Understanding the design properties in Figma—such as **color styles**, **typography**, and **component spacing**—is critical before starting the development process.
+
+**Key Reasons:**
+- 🎯 **Consistency:** Ensures a unified look and feel across all pages and components.  
+- 🧩 **Efficiency:** Speeds up development by providing a reference for reusing visual patterns.  
+- 🧠 **Clarity:** Helps developers understand the designer’s intent and visual hierarchy.  
+- 📱 **Responsiveness:** Guides decisions on scaling and layout adjustments for different screen sizes.  
+- ✅ **Quality Assurance:** Minimizes design–implementation mismatches and reduces revisions later.
+
+By thoroughly analyzing the Figma mockup and documenting its design properties, the development team can build an application that remains faithful to the intended user experience.
+
+---

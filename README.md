@@ -150,3 +150,29 @@ Understanding the design properties in Figma—such as **color styles**, **typog
 By thoroughly analyzing the Figma mockup and documenting its design properties, the development team can build an application that remains faithful to the intended user experience.
 
 ---
+
+---
+
+## 👥 Project Roles and Responsibilities
+
+A successful project requires a well-defined team structure where each member understands their role and responsibilities.  
+The following roles outline how each contributor supports the **AirBnB Clone Project** from design to deployment.
+
+| **Role** | **Responsibilities** | **Contribution to Project Success** |
+|-----------|-----------------------|------------------------------------|
+| **Project Manager** | - Oversees project timeline and milestones<br>- Coordinates between teams<br>- Manages deliverables and ensures deadlines are met | Ensures smooth collaboration and timely delivery of all project components |
+| **Frontend Developers** | - Implement responsive UI components<br>- Integrate APIs and handle state management<br>- Ensure accessibility and browser compatibility | Deliver a polished, user-friendly interface that matches the Figma design |
+| **Backend Developers** | - Develop RESTful APIs and manage the database<br>- Implement authentication, authorization, and booking logic<br>- Ensure data security and efficient server performance | Provide reliable backend functionality and maintain data integrity |
+| **Designers** | - Create UI mockups and maintain design systems<br>- Define color palettes, typography, and layout consistency<br>- Conduct UX research and usability testing | Ensure that the final product is visually appealing, intuitive, and user-centered |
+| **QA/Testers** | - Write and execute test cases (unit, integration, and end-to-end)<br>- Identify and report bugs<br>- Validate that new features meet acceptance criteria | Maintain overall product quality and user satisfaction |
+| **DevOps Engineers** | - Manage deployment pipelines (CI/CD)<br>- Handle server configuration, monitoring, and scaling<br>- Ensure application uptime and stability | Enable seamless deployment and maintain a reliable hosting environment |
+| **Product Owner** | - Define and prioritize project requirements<br>- Represent stakeholder interests<br>- Validate features against business goals | Aligns technical work with business objectives and user needs |
+| **Scrum Master** | - Facilitate agile ceremonies (sprints, stand-ups, retrospectives)<br>- Remove blockers for team members<br>- Promote collaboration and continuous improvement | Keeps the development process efficient, transparent, and adaptive |
+
+---
+
+### 🌟 Summary
+Clearly defining and documenting roles fosters collaboration, accountability, and clarity across the team.  
+Each role contributes uniquely to building a **high-quality, maintainable, and user-focused AirBnB clone** that meets both technical and business objectives.
+
+---
